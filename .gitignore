@@ -3,7 +3,6 @@
 
 # IntelliJ project files
 .idea
-/dist/
 /node_modules/
 *.iml
 out
